@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gary1998/HackPWA/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gary1998/HackPWA/static/js/main.e2532fec.chunk.js",
+    "main.js.map": "/gary1998/HackPWA/static/js/main.e2532fec.chunk.js.map",
+    "runtime-main.js": "/gary1998/HackPWA/static/js/runtime-main.7f4ed096.js",
+    "runtime-main.js.map": "/gary1998/HackPWA/static/js/runtime-main.7f4ed096.js.map",
+    "static/js/2.72646e40.chunk.js": "/gary1998/HackPWA/static/js/2.72646e40.chunk.js",
+    "static/js/2.72646e40.chunk.js.map": "/gary1998/HackPWA/static/js/2.72646e40.chunk.js.map",
+    "index.html": "/gary1998/HackPWA/index.html",
+    "precache-manifest.59994941e4f4d6fbcc3df137c5bf730c.js": "/gary1998/HackPWA/precache-manifest.59994941e4f4d6fbcc3df137c5bf730c.js",
+    "service-worker.js": "/gary1998/HackPWA/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gary1998/HackPWA/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/gary1998/HackPWA/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f4ed096.js",
+    "static/js/2.72646e40.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e2532fec.chunk.js"
+  ]
+}
